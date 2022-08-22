@@ -2,8 +2,6 @@
 Google PlayStore App analytics. (2.3 Million App Data) and 24 attributes.
 An EDA of the PlayStore Dataset inspired by @gauthamp10
 
-<img src="banner.jpg" width="700" height="180" />
-
 Data was Downloaded from Kaggle: https://www.kaggle.com/gauthamp10/google-playstore-apps/
 
 ```
