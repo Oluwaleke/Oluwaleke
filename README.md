@@ -7,7 +7,8 @@ Data was Downloaded from Kaggle: https://www.kaggle.com/gauthamp10/google-playst
 ![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/missing_percentage.png)
 ![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/total_cat.png)
 ![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/totalcat_instal.png)
-![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/rating.png)
+![]([https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/rating.png)
+![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/distribution_rating.png)
 ![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/all_cat_rating.png)
 
 
