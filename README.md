@@ -1,8 +1,18 @@
 # [Project 1 Google-Playstore-Dataset: Project Overview](https://github.com/Oluwaleke/Google-PlayStore) 
 Google PlayStore App analytics. (2.3 Million App Data) and 24 attributes.
 An EDA of the PlayStore Dataset inspired by @gauthamp10
-
 Data was Downloaded from Kaggle: https://www.kaggle.com/gauthamp10/google-playstore-apps/
+
+# [Project 2 Unsupervised-Predict-Streamlit](https://github.com/Oluwaleke/unsupervised-predict-streamlit-template)
+
+![Movie_Recommendations](resources/imgs/Image_header.png)
+
+This repository forms the basis of *Task 2* for the **Unsupervised Predict** within EDSA's Data Science course. It hosts template code which will enable students to deploy a basic recommender engine based upon the [Streamlit](https://www.streamlit.io/) web application framework.
+
+As part of the predict, students are expected to expand on this base template; improving (and fixing) the given base recommender algorithms, as well as providing greater context to the problem and attempted solutions through additional application pages/functionality.    
+
+
+
 
 My other projects: [github.com/Oluwaleke](https://github.com/Oluwaleke)
 
