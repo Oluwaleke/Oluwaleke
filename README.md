@@ -3,6 +3,15 @@ Google PlayStore App analytics. (2.3 Million App Data) and 24 attributes.
 An EDA of the PlayStore Dataset inspired by @gauthamp10
 Data was Downloaded from Kaggle: https://www.kaggle.com/gauthamp10/google-playstore-apps/
 
+![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/missing_values.png)
+![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/missing_percentage.png)
+![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/total_cat.png)
+![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/totalcat_instal.png)
+![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/rating.png)
+![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/all_cat_rating.png)
+
+
+
 # [Project 2 Unsupervised-Predict-Streamlit](https://github.com/Oluwaleke/unsupervised-predict-streamlit-template)
 
 ![Movie_Recommendations](resources/imgs/Image_header.png)
