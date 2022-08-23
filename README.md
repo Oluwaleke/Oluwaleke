@@ -1,4 +1,4 @@
-# Project 1 Google-Playstore-Dataset: Project Overview 
+# [Project 1 Google-Playstore-Dataset: Project Overview](https://github.com/Oluwaleke/Google-PlayStore) 
 Google PlayStore App analytics. (2.3 Million App Data) and 24 attributes.
 An EDA of the PlayStore Dataset inspired by @gauthamp10
 
