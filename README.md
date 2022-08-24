@@ -12,7 +12,16 @@ Data was Downloaded from Kaggle: https://www.kaggle.com/gauthamp10/google-playst
 # [Project 2 Unsupervised-Predict-Streamlit](https://github.com/Oluwaleke/unsupervised-predict-streamlit-template)
 This repository forms the basis of *Task 2* for the **Unsupervised Predict** within EDSA's Data Science course. It hosts template code which will enable students to deploy a basic recommender engine based upon the [Streamlit](https://www.streamlit.io/) web application framework.
 
-As part of the predict, students are expected to expand on this base template; improving (and fixing) the given base recommender algorithms, as well as providing greater context to the problem and attempted solutions through additional application pages/functionality. 
+As part of the predict, students are expected to expand on this base template; improving (and fixing) the given base recommender algorithms, as well as providing greater context to the problem and attempted solutions through additional application pages/functionality.
+![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/download.png)
+
+# [Project 3 NLP-South-African-Language-Identification](https://github.com/Oluwaleke/south-african-language-identification)
+South Africa is a multicultural society that is characterised by its rich linguistic diversity. Language is an indispensable tool that can be used to deepen democracy and also contribute to the social, cultural, intellectual, economic and political life of the South African society.
+The country is multilingual with 11 official languages, each of which is guaranteed equal status. Most South Africans are multilingual and able to speak at least two or more of the official languages. From South African Government. With such a multilingual population, it is only obvious that our systems and devices also communicate in multi-languages.
+We will take text which is in any of South Africa's (lang_id) 11 Official languages and identify which language the text is in. This is an example of NLP's Language Identification, the task of determining the natural language that a piece of text is written in.
+![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/southafrica_lang.jpg)
+
+
 
 
 
