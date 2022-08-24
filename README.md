@@ -27,6 +27,25 @@ In this project you are tasked to model the shortfall between the energy generat
 
 ![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/download2%20.png)
 
+# [Project 5 classification-predict-streamlit](https://github.com/Oluwaleke/classification-predict-streamlit-template-1)
+The collection of this data was funded by a Canada Foundation for Innovation JELF Grant to Chris Bauch, University of Waterloo. This dataset aggregates tweets pertaining to climate change collected between Apr 27, 2015 and Feb 21, 2018. In total, 43943 tweets were collected. The data was downloaded from: https://www.kaggle.com/c/edsa-climate-change-belief-analysis-2022/data
+
+Each tweet is labelled as one of the following classes:
+
+Class Description
+
+2 News: the tweet links to factual news about climate change
+1 Pro: the tweet supports the belief of man-made climate change
+0 Neutral: the tweet neither supports nor refutes the belief of man-made climate change
+-1 Anti: the tweet does not believe in man-made climate change
+Variable definitions
+
+sentiment: Sentiment of tweet
+message: Tweet body
+tweetid: Twitter unique id
+
+![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/twit.png)
+
 
 
 
