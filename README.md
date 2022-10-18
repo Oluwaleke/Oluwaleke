@@ -2,9 +2,9 @@
 An analysis of the state of nutrition in African children. The intention is to compare economic strength and its relationship with the state of malnutrition in various countries in Africa
 Data were gotten from different data sources which includes but not limited to : https://databank.worldbank.org/ , https://data.unicef.org/
 
-![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/totalcat_instal.png)
-![]([https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/rating.png)
-![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/distribution_rating.png)
+![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/malnutrition_heatmap.png)
+![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/malnutrition_histogram.png)
+![](https://github.com/Oluwaleke/Oluwaleke/blob/main/Images/malnutriyion_boxplot.png)
 
 # [Project 2 Google-Playstore-Dataset: Project Overview](https://github.com/Oluwaleke/Google-PlayStore) 
 Google PlayStore App analytics. (2.3 Million App Data) and 24 attributes.
